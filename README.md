@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oiee :3
 
 - 🌱 Estou estudando Front-end
 - 😄 Pronoumes: ela/dela
@@ -12,7 +12,7 @@
   <img align="center" alt="Kelly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kelly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kelly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Kelly-lucario" src="https://media.giphy.com/media/2x0mbcluDSkkiS4CcL/giphy.gif">
+  <img align="right" height="150em" alt="Kelly-lucario" src="https://media.giphy.com/media/2x0mbcluDSkkiS4CcL/giphy.gif">
 </div>
   
   ##
