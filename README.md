@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Estou estudando Front-end
-- 😄 Pronouns: ela/dela
+- 😄 Pronoumes: ela/dela
 
 <div>
   <a href="https://github.com/kelly-sakaki">
